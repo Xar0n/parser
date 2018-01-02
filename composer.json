@@ -1,0 +1,7 @@
+{
+    "name": "xar0n/parser",
+    "type": "project",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}
